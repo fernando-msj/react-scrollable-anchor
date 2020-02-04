@@ -65,11 +65,12 @@ configureAnchors({offset: -60, scrollDuration: 200})
 
 ##### Options:
 
-| option                | default          |
-| --------------------  | ---------------- |
-| `offset`              | `0`              |
-| `scrollDuration`      | `400`            |
-| `keepLastAnchorHash`  | `false`          |
+| option                 | default          |
+| ---------------------- | ---------------- |
+| `offset`               | `0`              |
+| `scrollDuration`       | `400`            |
+| `keepLastAnchorHash`   | `false`          |
+| `autoUpdateAnchorHash` | `true`           |
 
 ### 3. Utilities
 
